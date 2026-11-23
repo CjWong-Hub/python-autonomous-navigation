@@ -8,7 +8,7 @@ The project is a 2D simulator written with Pygame. The drone is modelled as a si
 
 **Stage 1 complete: static 2D environment.**
 
-![Stage 1 environment](Docs/images/stage1_environment.png)
+![Stage 1 environment](Docs/Images/stage1_environment.png)
 
 The window shows a 20 x 15 occupancy grid with static obstacles (grey), a start cell (green), a goal cell (yellow) and a drone (blue circle). The drone does not move or plan a path yet.
 
